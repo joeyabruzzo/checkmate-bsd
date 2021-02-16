@@ -1,6 +1,8 @@
 # checkmate-bsd
 A set of registry files that removes Beaverton School District restrictions on personal devices.
 
+Windows only for now. macOS and Linux versions coming soon.
+
 Installation on Windows:
 1. Download the latest version of the checkmate-bsd.reg file.
 2. Add the file to the Registry.
