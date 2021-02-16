@@ -10,3 +10,5 @@ Installation on Windows:
 4. Go to chrome://policy and click Reload policies.
 5. ?????
 6. Profit.
+
+Note: UBlock Origin policy removal is not supported. Use Adblock Plus instead.
